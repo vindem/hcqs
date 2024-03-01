@@ -4,6 +4,6 @@
 
 layout: default
 ---
-# Call for papers
+# Submission
 
 

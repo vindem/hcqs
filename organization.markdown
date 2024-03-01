@@ -4,15 +4,5 @@
 
 layout: default
 ---
-# About
+# Organization
 
-Welcome to the home page of the first workshop on Hybrid Classic Quantum Systems!
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.date }} - {{ post.title }}</a></h3>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
