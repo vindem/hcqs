@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "HCQS is online!"
+date:   2024-02-26 17:32:51 +0100
+categories: jekyll update
+---
+Welcome to the website of the first workshop on Hybrid Classic Quantum Systems! Here you will find the CFP, information about submission and the program.
