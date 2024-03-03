@@ -14,11 +14,8 @@ permalink: /organization/
 
 ## Program Committee
 
-* Richard Kueng, University of Linz (TBC)
 * Thomas Monz, University of Innsbruck (TBC)
 * Nicolai Friis, Vienna University of Technology (TBC)
 * Laia Domingo Colomer, Ingenii.io  
 * Tobias Guggemos, University of Vienna (TBC)
-* Daniel Egger, IBM (TBC)
-* Sandeep Suresh Cranganore, Juelich Forschungszentrum} (TBC)
-* Felix Motzoi (TBC)
+
