@@ -7,3 +7,12 @@ permalink: /organization/
 ---
 # Organization
 
+## Organizing Committee
+
+* Vincenzo De Maio (TU Wien)
+* Philipp Gschwandtner (University of Innsbruck)
+
+## Program Committee
+
+
+
