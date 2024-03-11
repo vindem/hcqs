@@ -10,5 +10,3 @@ permalink: /dates/
 * **Paper submission**: May 6, 2024
 * **Author Notification**: June 17, 2024
 * **Camera Ready**: July 1, 2024
-
-

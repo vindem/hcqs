@@ -15,4 +15,3 @@ We invite submissions of high-quality, original research results and works-in-pr
 * Hybrid Classical-Quantum Applications
 * Programming models and Compilers for Hybrid Classical-Quantum Systems
 * Benchmarking of Hybrid Classical-Quantum Systems
-

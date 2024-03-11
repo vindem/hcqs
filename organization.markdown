@@ -15,5 +15,5 @@ permalink: /organization/
 ## Program Committee
 
 * Laia Domingo Colomer, Ingenii.io  
-* Tobias Guggemos, University of Vienna 
+* Tobias Guggemos, University of Vienna
 * Angelika Widl, MathTec Gmbh
