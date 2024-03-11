@@ -14,8 +14,6 @@ permalink: /organization/
 
 ## Program Committee
 
-* Thomas Monz, University of Innsbruck (TBC)
-* Nicolai Friis, Vienna University of Technology (TBC)
 * Laia Domingo Colomer, Ingenii.io  
-* Tobias Guggemos, University of Vienna (TBC)
-
+* Tobias Guggemos, University of Vienna 
+* Angelika Widl, MathTec Gmbh
