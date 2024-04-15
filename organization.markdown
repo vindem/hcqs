@@ -25,3 +25,4 @@ permalink: /organization/
 * Arshpreet Maan, Aalto University
 * Ioana Moflic, Aalto University
 * Daniel Egger, IBM (tbc)
+* Felix Motzoi, Forschungszentrum Jüelich
