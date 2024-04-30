@@ -24,5 +24,5 @@ permalink: /organization/
 * Alexandru Paler, Aalto University
 * Arshpreet Maan, Aalto University
 * Ioana Moflic, Aalto University
-* Daniel Egger, IBM (tbc)
+* Richard Kueng, JKU Linz
 * Felix Motzoi, Forschungszentrum Jüelich

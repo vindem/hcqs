@@ -7,7 +7,7 @@ permalink: /dates/
 ---
 # Important Dates
 
-* **Paper submission**: May 6, 2024
-* **Author Notification**: June 17, 2024
+* **Paper submission**: ~~May 6~~ **May 20 2024 (extended)**
+* **Author Notification**: June 20, 2024
 * **Camera Ready**: July 1, 2024
 * **Workshop**: August 26-27, 2024 (exact date/time TBA)
